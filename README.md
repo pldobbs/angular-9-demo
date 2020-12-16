@@ -1,3 +1,5 @@
+# This is an angular 9 demo, intended to show basics of CLI use by generating an app, creating components and services and practicing pulling data from a public Studio Ghibli API.
+
 # StudioGhibliApiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
